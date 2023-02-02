@@ -1,3 +1,5 @@
+package otherhw;
+
 import java.io.*;
 import java.util.*;
 

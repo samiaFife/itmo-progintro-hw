@@ -1,3 +1,5 @@
+package otherhw;
+
 import java.util.Arrays;
 
 public class Pair {
